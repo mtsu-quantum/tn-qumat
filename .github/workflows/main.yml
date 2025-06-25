@@ -41,6 +41,9 @@ jobs:
           wget -O ${{ runner.temp }}/go.deb https://dl.google.com/go/go${GO_VERSION}.linux-amd64.tar.gz \
           && sudo tar -C /usr/local -xzf ${{ runner.temp }}/go.deb
 
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
+
       - name: Checkout
         uses: actions/checkout@v4.2.2
         with:
