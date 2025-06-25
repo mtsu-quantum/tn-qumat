@@ -1,16 +1,8 @@
 /* Add your own custom styles here */
-html:after {
-	content: "";
-	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
-	height: 100%;
-	z-index: -10;
-	background-image: url("/images/background.jpg");
+body {
+	background-image: url('{{ "/images/background.jpg" | resources.Get | relPermalink }}');
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-attachment: initial;
-	transition: background 0.2s linear;
+	background-attachment: fixed;
 }
