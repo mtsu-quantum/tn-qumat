@@ -9,7 +9,7 @@ banner:
     label: "Apply Now!"
     link: "/contact"
 
-# Motivation
+# Features
 features:
   - title: "Project Goals"
     image: "/images/project_goals.webp"
