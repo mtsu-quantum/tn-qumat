@@ -7,44 +7,67 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Thrust"
+url = "/thrust"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Team"
+url = "/team"
 weight = 3
 
 [[main]]
+name = "Outreach"
+url = "/outreach"
 weight = 4
-name = "Pages"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+weight = 5
+name = "News"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+parent = "News"
+name = "Updates"
+url = "/updates"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+parent = "News"
+name = "Publications"
+url = "/pubs"
 
 [[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
+parent = "News"
+name = "Alumni"
+url = "/alumni"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
-
+#[[main]]
+#weight = 6
+#name = "Pages"
+#
+#[[main]]
+#parent = "Pages"
+#name = "Blog"
+#url = "/blog"
+#
+#[[main]]
+#parent = "Pages"
+#name = "Contact"
+#url = "/contact"
+#
+#[[main]]
+#parent = "Pages"
+#name = "Authors"
+#url = "/authors"
+#
+#[[main]]
+#parent = "Pages"
+#name = "Categories"
+#url = "/categories"
+#
+#[[main]]
+#parent = "Pages"
+#name = "404 Page"
+#url = "/404"
 
 # footer menu
 [[footer]]
@@ -53,8 +76,8 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "MTSU Quantum Initiative"
+url = "https://quantum.mtsu.edu/"
 weight = 2
 
 [[footer]]

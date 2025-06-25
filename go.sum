@@ -6,6 +6,8 @@ github.com/gethugothemes/hugo-modules/components/announcement v0.0.0-20250512035
 github.com/gethugothemes/hugo-modules/components/announcement v0.0.0-20250512035231-bb1514d411e2/go.mod h1:BO6vbFLvEgb45epi/QtUkQmTyqsWSwxIqTpwDvqJFHk=
 github.com/gethugothemes/hugo-modules/components/cookie-consent v0.0.0-20250512035231-bb1514d411e2 h1:i18jUjIBhQFNZIPM3taYHVuPCgKG2rczmV3/NO7WXY4=
 github.com/gethugothemes/hugo-modules/components/cookie-consent v0.0.0-20250512035231-bb1514d411e2/go.mod h1:511ERLpGe3ZTfV2z/NAtUSR5NqKF26h9z5lU/zYV4YQ=
+github.com/gethugothemes/hugo-modules/components/crisp-chat v0.0.0-20250512035231-bb1514d411e2 h1:PQ/Gflms6rTwBzriilhFQSURSMf88/M3ntmDlDsOTwg=
+github.com/gethugothemes/hugo-modules/components/crisp-chat v0.0.0-20250512035231-bb1514d411e2/go.mod h1:qiV/PIeVY59RD2W885rFWc7b62uovQZO6VPFHeP5LT0=
 github.com/gethugothemes/hugo-modules/components/custom-script v0.0.0-20250512035231-bb1514d411e2 h1:8p1pURB/77oHocvkNQwkvnqchKSk+4uZ3Eaw+tN3rdA=
 github.com/gethugothemes/hugo-modules/components/custom-script v0.0.0-20250512035231-bb1514d411e2/go.mod h1:RuDHq4WnK8sNEzAIJr4BZQ7oXhzcct/EKaAxc2Xvi9E=
 github.com/gethugothemes/hugo-modules/components/preloader v0.0.0-20250512035231-bb1514d411e2 h1:M0CKLNsvIo3k5u8ToXuaw9FYZnP8nu+1QBVyhbKgIVk=
@@ -20,6 +22,8 @@ github.com/gethugothemes/hugo-modules/gzip-caching v0.0.0-20250512035231-bb1514d
 github.com/gethugothemes/hugo-modules/gzip-caching v0.0.0-20250512035231-bb1514d411e2/go.mod h1:0ZMjTZVG4XLZU2/icc8Saqo4mmgMpfRTrUZU2Aa2Pwg=
 github.com/gethugothemes/hugo-modules/icons/font-awesome v0.0.0-20250512035231-bb1514d411e2 h1:f1icN+cWEMBJkcnu6waM4D+flxUvRPIXwFDcnm1w0Sw=
 github.com/gethugothemes/hugo-modules/icons/font-awesome v0.0.0-20250512035231-bb1514d411e2/go.mod h1:d3gy1vQyfasPmGpau7HpQLrXbOv23PfXclSnjyOBxeU=
+github.com/gethugothemes/hugo-modules/icons/themify-icons v0.0.0-20250512035231-bb1514d411e2 h1:j+JybSgdGTdYtkIUC3T7S8SxdmlK2WHU6uRVUHghXa0=
+github.com/gethugothemes/hugo-modules/icons/themify-icons v0.0.0-20250512035231-bb1514d411e2/go.mod h1:hWopv9exSUsFbNUzWemaFvPdyPay0lrqTMHkJXi4n+Y=
 github.com/gethugothemes/hugo-modules/images v0.0.0-20250512035231-bb1514d411e2 h1:Zkrk8S+oREteMGHsYWJzAxaeZCQ1dP9fFs/kI5h9/6c=
 github.com/gethugothemes/hugo-modules/images v0.0.0-20250512035231-bb1514d411e2/go.mod h1:FKliP3qOW9diIcQeLtyZ0Hdhg3PL8bdAkC/6O+XtU90=
 github.com/gethugothemes/hugo-modules/modal v0.0.0-20250512035231-bb1514d411e2 h1:3grURV4E8HQyK16ZEwcTpSKj/HKdTdMRivl4nkZAgKQ=
