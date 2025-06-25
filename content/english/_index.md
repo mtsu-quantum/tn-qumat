@@ -11,41 +11,33 @@ banner:
 
 # Motivation
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Project Goals"
+    image: "/images/project_goals.webp"
+    content: "The goal of the project is to develop a sustainable quantum-ready workforce in Tennessee, focusing on advancing research, training the quantum training, and fostering collaboration. The project is structured around four key thrusts:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Advancing Quantum Materials Research"
+      - "TN Quantum Ready Workforce Development"
+      - "Broadening Participation"
+      - "Strengthening Partnerships"
+
+  - title: "Collaborating Institutions"
+    image: "/images/TN_map.webp"
+    content: "**TN:QuMat** is a collaborative initiative between MTSU, TSU, Fisk University and ORNL integrating resources and expertise to position Tennessee as a hub for quantum research, education and workforce development."
+    bulletpoints:
+      - "**Middle Tennessee State University (MTSU)** - *PI*: [Hanna Terletska](https://w1.mtsu.edu/faculty/hanna-terletska), *Co-PI*: [John Villanova](https://w1.mtsu.edu/faculty/john-villanova)"
+      - "**Tennessee State University (TSU)** - *Co-PI*: [Richard Mu](https://www.tnstate.edu/tigerinstitute/richard-mu.aspx)"
+      - "**Fisk University** - *Co-PI*: [Ning Zhang](https://www.fisk.edu/directory/ning-zhang/)"
+      - "**Oak Ridge National Laboratory (ORNL)** - *PI*: [Thomas Maier](https://www.ornl.gov/staff-profile/thomas-maier), *Co-PI*: [Tom Berlijn](https://www.ornl.gov/staff-profile/tom-berlijn)"
+      - "**University of Michigan** - *Co-PI*: [Emanuel Gull](https://lsa.umich.edu/physics/people/faculty/egull.html), [Sergei Iskakov](https://sites.lsa.umich.edu/gull-lab/staff-members/sergei-iskakov/)"
+      - "**Meharry College** - *Co-PI*: [Lei Qian](https://sacsmeharry.org/sacs/faculty/leiqian/)"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: ""
+      link: ""
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+  - title: "Acknowledgement"
+    image: "/images/doe_logo.png"
+    content: "The **TN-QuMat** program is only possible because of funds by the U.S. Department of Energy under it's RENEW Program. The team at **TN-QuMat** is thankful for the same."
     button:
       enable: false
       label: ""
