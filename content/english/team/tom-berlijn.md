@@ -1,20 +1,23 @@
 ---
 title: Tom Berlijn
 email: johndoe@email.com
-image: "/images/avatar.png"
+image: "/images/TomBerlijn-pic.jpg"
 description: this is meta description
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
+  - name: webpage
+    icon: fa-solid fa-globe
+    link: https://www.ornl.gov/staff-profile/tom-berlijn
 
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
+  - name: email
+    icon: fa-solid fa-envelope
+    link: mailto:berlijnt@ornl.gov
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
----
+    link: 
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+---
+Thrust 2.  
+  
+Senior Research Scientist, ORNL. 
+
