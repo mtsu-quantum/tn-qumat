@@ -1,20 +1,22 @@
 ---
 title: Emanuel Gull
 email: johndoe@email.com
-image: "/images/avatar.png"
+image: "/images/EmanuelGull-pic.png"
 description: this is meta description
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
+  - name: webpage
+    icon: fa-solid fa-globe
+    link: https://gull-group.org/
 
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
+  - name: email
+    icon: fa-solid fa-envelope
+    link: mailto:egull@umich.edu
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
----
+    link: https://www.linkedin.com/posts/wojciech-pacuski_welcome-professor-emanuel-gull-to-the-faculty-activity-7193517994067554304-P2H8/
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+
+---
+Thrust 1. Professor, Un. of Michigan.
+
