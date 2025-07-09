@@ -14,7 +14,8 @@ social:
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://www.linkedin.com/in/hanna-terletska-bbb27587/
 ---
+
 Thrust 1. 
 Associate Professor, MTSU. Head of Quantum@MTSU.
