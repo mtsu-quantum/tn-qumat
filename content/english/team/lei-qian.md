@@ -1,7 +1,7 @@
 ---
 title: Lei Qian
-email: johndoe@email.com
-image: "/images/LeiQian-pic.jpg"
+email: lei.qian@mmc.edu
+image: "/images/team/LeiQian-pic.jpg"
 description: this is meta description
 social:
   - name: webpage
@@ -16,5 +16,6 @@ social:
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/lei-qian-81166411/
 
+weight: 10
 ---
 Thrust 3. Associate Professor, Meharry School of Applied Computational Sciences.

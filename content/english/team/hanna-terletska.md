@@ -1,7 +1,7 @@
 ---
 title: Hanna Terletska
 email: hanna.terletska@mtsu.edu
-image: "/images/Hanna-renew-grey-2.png"
+image: "/images/team/Hanna-renew-grey-2.png"
 description: this is meta description
 social:
   - name: webpage
@@ -15,6 +15,7 @@ social:
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/hanna-terletska-bbb27587/
+weight: 1
 ---
 
 Thrust 1. 

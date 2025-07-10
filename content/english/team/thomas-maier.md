@@ -1,7 +1,7 @@
 ---
 title: Thomas Maier
-email: johndoe@email.com
-image: "/images/ThomasMaier-pic.png"
+email: maierta@ornl.gov
+image: "/images/team/ThomasMaier-pic.png"
 description: this is meta description
 social:
   - name: webpage
@@ -15,7 +15,7 @@ social:
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/thomas-maier-b403471/
-
+weight: 2
 ---
 Thrust 1.
 

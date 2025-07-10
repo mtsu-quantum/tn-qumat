@@ -1,7 +1,7 @@
 ---
 title: Tom Berlijn
-email: johndoe@email.com
-image: "/images/TomBerlijn-pic.jpg"
+email: berlijnt@ornl.gov
+image: "/images/team/TomBerlijn-pic.jpg"
 description: this is meta description
 social:
   - name: webpage
@@ -15,7 +15,7 @@ social:
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: 
-
+weight: 6
 ---
 Thrust 2.  
   

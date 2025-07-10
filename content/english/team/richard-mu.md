@@ -1,7 +1,7 @@
 ---
 title: Richard Mu
-email: johndoe@email.com
-image: "/images/RicharMu-pic.jpeg"
+email: rmu@tnstate.edu
+image: "/images/team/RicharMu-pic.jpeg"
 description: this is meta description
 social:
   - name: webpage
@@ -14,7 +14,9 @@ social:
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: 
+    link: https://www.linkedin.com/in/richard-mu-891aa353/
+
+weight: 7
 ---
 Thrust 3.
  

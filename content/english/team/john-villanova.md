@@ -1,7 +1,7 @@
 ---
 title: Jack Villanova
-email: johndoe@email.com
-image: "/images/JohnVillanova-pic.jpg"
+email: john.villanova@mtsu.edu
+image: "/images/team/JohnVillanova-pic.jpg"
 description: this is meta description
 social:
   - name: webpage
@@ -15,6 +15,7 @@ social:
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/john-villanova-086152287/
+weight: 5
 ---
 Thrust 2.
 

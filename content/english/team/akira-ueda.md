@@ -1,22 +1,22 @@
 ---
-title: Thomas Maier
-email: johndoe@email.com
-image: "/images/ThomasMaier-pic.png"
+title: Akira Ueda
+email: UAkira@fisk.edu
+image: "/images/team/akira-ueda.jpeg"
 description: this is meta description
 social:
   - name: webpage
     icon: fa-solid fa-globe
-    link: https://www.ornl.gov/staff-profile/thomas-maier
+    link: https://scholar.google.com/citations?user=bP_bD2YAAAAJ&hl=en
 
   - name: email
     icon: fa-solid fa-envelope
-    link: mailto:maierta@ornl.gov
+    link: mailto:UAkria@fisk.edu
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://www.linkedin.com/in/thomas-maier-b403471/
+    link: https://www.linkedin.com/in/akira-ueda-82408954/
 
+weight: 9
 ---
-Thrust 1.
-
-Distinguished Research Staff and Section Head, Advanced Computing Methods for Physical Sciences, ORNL.  
+Thrust 3.
+Research Associate Professor, Fisk University

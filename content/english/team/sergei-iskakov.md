@@ -1,7 +1,7 @@
 ---
 title: Sergei Iskakov
-email: johndoe@email.com
-image: "/images/SergeiIskakov-pic.jpeg"
+email: siskakov@umich.edu
+image: "/images/team/SergeiIskakov-pic.jpeg"
 description: this is meta description
 social:
   - name: webpage
@@ -16,6 +16,7 @@ social:
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/sergei-iskakov/
 
+weight: 4
 ---
 
 Thrust 1. Software Development Engineer at Applied Intuition, Ann Arbor.
