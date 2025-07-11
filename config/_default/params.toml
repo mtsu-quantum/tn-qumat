@@ -32,7 +32,8 @@ custom_script = ""
 #Background
 background = "images/background.jpg"
 
-
+#Breadcrumbs
+showBreadcrumb = false
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -43,7 +44,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "apply"
+label = "contact"
 link = "contact"
 
 # search

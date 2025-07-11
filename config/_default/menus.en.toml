@@ -8,7 +8,7 @@ weight = 1
 
 [[main]]
 name = "Thrusts"
-url = "/thrust/thrust"
+url = "/thrust"
 weight = 2
 
 [[main]]
@@ -18,27 +18,28 @@ weight = 3
 
 [[main]]
 name = "Outreach"
-url = "/outreach/outreach"
+url = "/outreach/vinse-outreach"
 weight = 4
 
-[[main]]
-weight = 5
-name = "News"
+#[[main]]
+#weight = 5
+#name = "News"
+#url = "/updates"
 
-[[main]]
-parent = "News"
-name = "Updates"
-url = "/updates"
-
-[[main]]
-parent = "News"
-name = "Publications"
-url = "/pubs"
-
-[[main]]
-parent = "News"
-name = "Alumni"
-url = "/alumni"
+#[[main]]
+#parent = "News"
+#name = "Updates"
+#url = "/updates"
+#
+#[[main]]
+#parent = "News"
+#name = "Publications"
+#url = "/pubs"
+#
+#[[main]]
+#parent = "News"
+#name = "Alumni"
+#url = "/alumni"
 
 #[[main]]
 #weight = 6
