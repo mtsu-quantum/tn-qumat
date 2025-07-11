@@ -6,3 +6,9 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
+
+ul {
+  list-style: none;
+  list-style-image: url("/images/tn-tristar.svg");
+  list-style-position: inside;
+}

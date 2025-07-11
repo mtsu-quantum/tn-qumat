@@ -80,3 +80,11 @@
   integrity="{{ $stylesLazy.Data.Integrity }}"
   media="print"
   onload="this.media='all'; this.onload=null;" />
+
+
+<!-- Homepage style -->
+{{ if .IsHome }}
+  {{ $homeCSS := resources.Get "css/home.css" | minify | fingerprint }}
+  < link rel="stylesheet" href="{{ $homeCSS.RelPermalink }}">
+{{ end }}
+
