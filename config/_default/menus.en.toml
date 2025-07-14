@@ -23,7 +23,7 @@ weight = 4
 
 [[main]]
 name = "Apply"
-url = "/apply"
+url = "/apply/apply"
 weight = 5
 
 
