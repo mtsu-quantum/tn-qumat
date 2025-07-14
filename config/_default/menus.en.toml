@@ -21,6 +21,11 @@ name = "Outreach"
 url = "/outreach/vinse-outreach"
 weight = 4
 
+[[main]]
+name = "Apply"
+url = "/apply"
+weight = 5
+
 #[[main]]
 #weight = 5
 #name = "News"
