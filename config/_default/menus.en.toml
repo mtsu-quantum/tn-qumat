@@ -18,7 +18,7 @@ weight = 3
 
 [[main]]
 name = "Outreach"
-url = "/outreach"
+url = "/outreach/vinse-outreach"
 weight = 4
 
 [[main]]
