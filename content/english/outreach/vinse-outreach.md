@@ -1,6 +1,6 @@
 ---
 title: "Quantum Materials Meet Quantum Computing Hands-On Workshop"
-EventDate: "Jun 30, 2025"
+EventDate: "Jun 23, 2025"
 ShortSummary: "Hands-on training workshop in partnership with ViNSE Institure titled \"From Atoms to Quantum Materials to Quantum Computers\" "
 images:
     - /images/outreach/Vinse-pic1-all.jpeg
