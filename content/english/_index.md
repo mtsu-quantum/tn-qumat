@@ -5,7 +5,7 @@ banner:
 #  content: "The **TN-QuMat** project is supported by the **U.S. Department of Energy (DOE) Researching New Energy Sciences Workforce (RENEW) initiative**, which aims to develop a skilled and diverse workforce in critical areas of national research. **TN-QuMat** is a collaborative initiative between **MTSU** (PI Hanna Terletska, Co-PI, John Villanova), **TSU**, (Co-PI Richard Mu), **Fisk University** (Co-PI Ning Zhang) and **Oak Ridge National Laboratory** (PI Thomas Maier, Co-PI Tom Berlijn)."
   #image: "/images/banner.png"
   #image: "/images/Thrust-fig.png"
-  image: "/images/Overview-pic-14.png"
+  image: "/images/tn-qumat-overview-fig.png"
   content: "The **TN-QuMat** project is a strategic partnership between **MTSU**, **TSU**, **Fisk University**, **Meharry College**, and **Oak Ridge National Laboratory (ORNL)**.
 Supported by the DOE-RENEW program, the TN-QuMat advances DOE’s mission by developing a skilled and diverse workforce in quantum science, an area critical to the nation’s scientific and technological importance.
 TN-QuMat provides hands-on research training and mentorship focused on three major thrusts in quantum materials science: 1) Theoretical modeling, 2) First-principles simulations, and 3) Experimental synthesis and characterization of quantum materials.
