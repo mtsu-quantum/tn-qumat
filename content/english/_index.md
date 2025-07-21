@@ -36,7 +36,7 @@ features:
       - "Enhancing Instituional Partnerships and Collaboration"
 
   - title: "Collaborating Institutions"
-    image: "/images/Tn-map-with-logos2.png"
+    image: "/images/Tn-map-HT.png"
     content: "**TN:QuMat** is a collaborative initiative between MTSU, TSU, Fisk University and ORNL integrating resources and expertise to position Tennessee as a hub for quantum research, education and workforce development."
     bulletpoints:
       - "**Middle Tennessee State University (MTSU)** - *PI*: [Hanna Terletska](https://w1.mtsu.edu/faculty/hanna-terletska), *Co-PI*: [John Villanova](https://w1.mtsu.edu/faculty/john-villanova)"
