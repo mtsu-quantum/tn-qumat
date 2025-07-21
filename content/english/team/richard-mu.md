@@ -16,7 +16,7 @@ social:
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/richard-mu-891aa353/
 
-weight: 7
+weight: 9
 ---
 Thrust 3.
  

@@ -15,7 +15,7 @@ social:
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: 
-weight: 6
+weight: 8
 ---
 Thrust 2.  
   

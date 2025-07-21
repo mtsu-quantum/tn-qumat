@@ -16,7 +16,7 @@ social:
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/akira-ueda-82408954/
 
-weight: 9
+weight: 11
 ---
 Thrust 3.
 Research Associate Professor, Fisk University

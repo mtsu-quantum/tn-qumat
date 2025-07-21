@@ -15,7 +15,7 @@ social:
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/john-villanova-086152287/
-weight: 5
+weight: 7
 ---
 Thrust 2.
 

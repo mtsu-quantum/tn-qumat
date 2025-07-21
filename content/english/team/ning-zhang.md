@@ -1,7 +1,7 @@
 ---
 title: Ning Zhang
 email: nzhang@fisk.edu
-image: "/images/team/NingZhang-pic.png"
+image: "/images/team/NingZhang_HeadShot.jpeg"
 description: this is meta description
 social:
   - name: webpage
@@ -16,6 +16,6 @@ social:
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/ning-zhang-367ba5151/
 
-weight: 8
+weight: 10
 ---
 Thrust 3. Assistant Professor, Fisk University.
