@@ -34,6 +34,9 @@ features:
       - "TN Quantum Ready Workforce Development"
       - "Strengthening Talent Pipelines"
       - "Enhancing Instituional Partnerships and Collaboration"
+    button:
+      enable: false
+      label: ""
 
   - title: "Collaborating Institutions"
     image: "/images/Tn-map-HT.png"
