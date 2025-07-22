@@ -1,3 +1,3 @@
 #TN:QuMAT
 
-Website for the site: https://mtsu-quantum.github.io/tn-qumat/
+Website for the site: https://tn-qumat.org
