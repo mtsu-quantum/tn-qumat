@@ -35,7 +35,7 @@
 
 
     <!-- header (don't cache it) -->
-    {{ partial "essentials/header.html" . }}
+    {{ partial "header.html" . }}
     {{ partial "search-modal.html" (dict "Context" . ) }}
 
 
@@ -44,7 +44,7 @@
     </main>
 
     <!-- footer -->
-    {{ partial "essentials/footer.html" . }}
+    {{ partial "footer.html" . }}
 
 
     <!-- script (always cache it) -->

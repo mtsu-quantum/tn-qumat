@@ -1,0 +1,35 @@
+{
+  "logos": [
+    {
+      "light_image": "images/logo_bar/MTSU-wordmark.png",
+      "dark_image": "images/logo_bar/MTSU-wordmark-dark.png",
+      "url": "https://mtsu.edu",
+      "alt": "MTSU Logo"
+    },
+    {
+      "light_image": "images/logo_bar/TN-state-blue.svg",
+      "dark_image": "images/logo_bar/TN-state-dark.svg",
+      "url": "https://tnstate.edu",
+      "alt": "TN State Logo"
+    },
+    {
+      "light_image": "images/logo_bar/Fisk-logo.png",
+      "dark_image": "images/logo_bar/Fisk-logo-dark.avif",
+      "url": "https://fisk.edu",
+      "alt": "Fisk University Logo"
+    },
+    {
+      "light_image": "images/logo_bar/Meharry-logo.png",
+      "dark_image": "images/logo_bar/Meharry-dark.png",
+      "url": "https://home.mmc.edu",
+      "alt": "Meharry Logo"
+    },
+    {
+      "light_image": "images/logo_bar/ornl-logo.svg",
+      "dark_image": "images/logo_bar/ornl-logo-dark.svg",
+      "url": "https://ornl.gov",
+      "alt": "ORNL Logo"
+    }
+  ]
+}
+
