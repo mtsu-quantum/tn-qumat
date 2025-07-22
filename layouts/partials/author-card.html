@@ -1,7 +1,7 @@
 <div class="bg-light dark:bg-darkmode-light rounded p-8 text-center">
   {{ $image:= .Params.image }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded w-[200px] h-[200px] object-cover") }}
+    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded w-[200px] h-[200px] object-contain") }}
   {{ else if .Params.Email }}
     <img
       class="mx-auto mb-6 rounded"

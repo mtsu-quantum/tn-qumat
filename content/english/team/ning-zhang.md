@@ -1,7 +1,7 @@
 ---
 title: Ning Zhang
 email: nzhang@fisk.edu
-image: "/images/team/NingZhang_HeadShot.jpeg"
+image: "/images/team/NingZhang_Fisk.png"
 description: this is meta description
 social:
   - name: webpage
