@@ -1,42 +1,42 @@
 <footer class="bg-light dark:bg-darkmode-light">
   <div class="container">
     <div class="row items-center py-10">
-      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-left">
-        <!-- navbar brand/logo -->
+      <!--div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-left">
+        <!- - navbar brand/logo - ->
         <a
           class="navbar-brand inline-block"
           href="{{ site.Home.RelPermalink }}">
           {{ partial "logo" }}
         </a>
-      </div>
+      </div -->
 
      <!-- Logo Bar -->
-	<div class="lg:col-6 mb-8 text-center lg:mb-0">
+	<div class="lg:col-12 mb-8 text-center">
   	  <div class="flex flex-wrap justify-center items-center gap-6">
     		{{ range site.Data.logobar.logos }}
       		  <a href="{{ .url }}" target="_blank" rel="noopener">
         		<!-- Light mode logo -->
         		<img src="{{ .light_image | relURL }}"
              		alt="{{ .alt }}"
-             		class="w-26 object-contain block dark:hidden" />
+             		class="w-36 object-contain block dark:hidden" />
         		<!-- Dark mode logo -->
         		<img src="{{ .dark_image | relURL }}"
              		alt="{{ .alt }}"
-             		class="w-26 object-contain hidden dark:block" />
+             		class="w-36 object-contain hidden dark:block" />
       		 </a>
    		{{ end }}
   	  </div>
 	</div>
 
       <!-- Logo right -->	
-      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-right">
-        <!-- navbar brand/logo -->
+      <!--div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-right">
+        <!- - navbar brand/logo - ->
         <a
           class="navbar-brand inline-block"
           href="{{ site.Home.RelPermalink }}">
           {{ partial "logo" }}
         </a>
-      </div>
+      </div -->
 
       <!-- Social icons -->
       <!--
