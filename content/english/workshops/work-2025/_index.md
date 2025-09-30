@@ -10,7 +10,7 @@ images:
 ## Overview
 
 *Placeholder text:*  
-This seminar brings together researchers, students, and practitioners interested in quantum materials and related topics. We aim to provide a platform for presenting recent advances, fostering collaboration, and introducing new directions in theory, experiment, and computation.
+This HA seminar brings together researchers, students, and practitioners interested in quantum materials and related topics. We aim to provide a platform for presenting recent advances, fostering collaboration, and introducing new directions in theory, experiment, and computation.
 
 ## Speakers & Topics
 
