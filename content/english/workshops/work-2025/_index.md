@@ -1,8 +1,8 @@
 ---
-title: "TN-QuMAT 2025 Seminar"
+title: "TN-QuMAT 2025 Workshop"
 date: 2025-09-30T13:24:15-05:00
 EventDate: "Jun 23, 2025"
-ShortSummary: "First seminar of TN-QuMat featuring expert talks and hands-on sessions"
+ShortSummary: "Workshop of TN-QuMat featuring expert talks and hands-on sessions"
 images:
     - /images/seminar/placeholder.png
 ---

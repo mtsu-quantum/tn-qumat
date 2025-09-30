@@ -21,15 +21,21 @@ name = "Outreach"
 url = "/outreach"
 weight = 4
 
-[[main]]
-name = "Apply"
-url = "/apply/apply"
-weight = 5
+#[[main]]
+#name = "Apply"
+#url = "/apply/apply"
+#weight = 5
 
 [[main]]
-name= "Seminar"
-url = "/seminar"
+name= "Workshops"
+url = "/Workshops"
 weight = 6
+
+[[main]]
+parent= "Workshops"
+name = "2025 TN-QuMAT Workshop"
+url = "/Workshops/work-2025/work-2025/"
+
 
 #[[main]]
 #weight = 5
