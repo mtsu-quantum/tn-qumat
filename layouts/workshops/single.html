@@ -1,31 +1,38 @@
 {{ define "main" }}
-<article class="prose lg:prose-lg dark:prose-invert max-w-5xl mx-auto px-4">
-  <header class="mb-8">
+<div class="max-w-6xl mx-auto px-4">
+  <header class="mb-8 text-center">
     <h1 class="text-4xl font-bold mb-2">{{ .Title }}</h1>
     {{ with .Params.description }}
       <p class="text-lg text-gray-600 dark:text-gray-300">{{ . }}</p>
     {{ end }}
-    {{ with .Params.image }}
-      <div class="my-6">
-        <img src="{{ . | relURL }}" alt="{{ $.Title }}"
-             class="w-full max-h-[400px] object-cover rounded-xl shadow-md">
-      </div>
-    {{ end }}
   </header>
 
-  {{ .Content }}
+  <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+    <!-- Main Content -->
+    <article class="prose lg:prose-lg dark:prose-invert max-w-none lg:col-span-2">
+      {{ .Content }}
+    </article>
 
-  {{ with .Params.gallery }}
-  <section class="mt-12">
-    <h2 class="text-2xl font-semibold mb-4">Gallery</h2>
-    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {{ range . }}
-        <img src="{{ . | relURL }}" alt="Seminar image"
-             class="rounded-lg shadow hover:scale-[1.02] transition-transform duration-200">
-      {{ end }}
-    </div>
-  </section>
-  {{ end }}
-</article>
+    <!-- Sidebar with Flyer Thumbnail -->
+    {{ with .Params.flyer_thumb }}
+    <aside class="lg:col-span-1 lg:max-w-md mx-auto">
+        <h2 class="text-xl font-semibold mb-4 text-center">Workshop Flyer</h2>
+        <a href="{{ $.Params.flyer | relURL }}" target="_blank">
+          <img src="{{ . | relURL }}"
+               alt="Workshop Flyer Thumbnail"
+               class="rounded-lg shadow-lg hover:scale-[1.02] transition-transform duration-200 w-full">
+        </a>
+        <p class="mt-3 text-sm text-center">
+          <a href="{{ $.Params.flyer | relURL }}" 
+             class="text-blue-600 dark:text-blue-400 hover:underline"
+             target="_blank">
+            Download Flyer (PDF)
+          </a>
+        </p>
+      </div>
+    </aside>
+    {{ end }}
+  </div>
+</div>
 {{ end }}
 
