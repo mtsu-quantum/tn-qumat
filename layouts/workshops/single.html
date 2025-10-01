@@ -5,9 +5,27 @@
     {{ with .Params.description }}
       <p class="text-lg text-gray-600 dark:text-gray-300">{{ . }}</p>
     {{ end }}
+    {{ with .Params.image }}
+      <div class="my-6">
+        <img src="{{ . | relURL }}" alt="{{ $.Title }}"
+             class="w-full max-h-[400px] object-cover rounded-xl shadow-md">
+      </div>
+    {{ end }}
   </header>
 
   {{ .Content }}
+
+  {{ with .Params.gallery }}
+  <section class="mt-12">
+    <h2 class="text-2xl font-semibold mb-4">Gallery</h2>
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {{ range . }}
+        <img src="{{ . | relURL }}" alt="Seminar image"
+             class="rounded-lg shadow hover:scale-[1.02] transition-transform duration-200">
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
 </article>
 {{ end }}
 
