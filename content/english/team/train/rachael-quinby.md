@@ -1,6 +1,6 @@
 ---
 title: Rachael Quinby
-email: Anirudha.Mirmira@mtsu.edu
+email: req2d@mtmail.mtsu.edu
 image: "/images/team/Rachael-Quinby.png"
 description: this is meta description
 #social:

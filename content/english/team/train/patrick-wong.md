@@ -1,7 +1,7 @@
 ---
-title: Cameron Morelli
-email: cnm5v@mtmail.mtsu.edu
-image: "/images/team/Cameron-Morelli.jpg"
+title: Patrick Wong
+email: psw2i@mtmail.mtsu.edu
+image: "/images/team/Patrick-Wong.jpeg"
 description: this is meta description
 #social:
 #  - name: webpage
@@ -15,8 +15,8 @@ description: this is meta description
 #  - name: linkedin
 #    icon: fa-brands fa-linkedin
 #    link: https://www.linkedin.com/in/anirudha--mirmira/
-weight: 1
+weight: 3
 ---
- 
-Undergraduate Physics Major, MTSU.
-Advisor: Dr. Jack Villanova
+
+Computational Science PhD student, MTSU.
+Advisor: Dr. Hanna Terletska
