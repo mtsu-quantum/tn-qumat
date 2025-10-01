@@ -17,6 +17,16 @@ url = "/team"
 weight = 3
 
 [[main]]
+name = "Trainees"
+url = "/team/train"
+parent = "Team"
+
+[[main]]
+name = "Collaborators"
+url = "/team/collab"
+parent = "Team"
+
+[[main]]
 name = "Outreach"
 url = "/outreach"
 weight = 4
