@@ -38,18 +38,18 @@ weight = 4
 
 [[main]]
 name= "Training"
-url = "/Training"
+url = "/training"
 weight = 6
 
 [[main]]
 parent= "Training"
 name = "TN-QuMAT Workshop 2025"
-url = "/Training/work-2025/work-2025/"
+url = "/training/work-2025/work-2025/"
 
 [[main]]
 parent= "Training"
 name = "AMPLIFY 2026"
-url = "/Training/amp-2026/amp-2026/"
+url = "/training/amp-2026/amp-2026/"
 
 #[[main]]
 #weight = 5
