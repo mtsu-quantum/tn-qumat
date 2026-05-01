@@ -51,6 +51,11 @@ parent= "Training"
 name = "AMPLIFY 2026"
 url = "/training/amp-2026/amp-2026/"
 
+[[main]]
+name = "Journal Club"
+url = "/journal_club"
+weight = 7
+
 #[[main]]
 #weight = 5
 #name = "News"
