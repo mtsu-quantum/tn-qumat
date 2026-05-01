@@ -1,8 +1,8 @@
 ---
-title: "AMPLIFY 2026"
+title: "ORNL TN-QuMat Summer Internship Program"
 date: 2025-09-30T13:24:15-05:00
 EventDate: "June, 2026"
-ShortSummary: "AMPLIFY Program to train students"
+ShortSummary: "ORNL TN-QuMat Summer Internship Program"
 ---
 
 ### Overview {#overview .scroll-mt-32}
