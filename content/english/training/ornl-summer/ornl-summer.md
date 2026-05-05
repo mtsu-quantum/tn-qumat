@@ -26,21 +26,21 @@ Research is organized around three quantum materials thrusts:
 **Who Should Apply?**
 This internship is designed for applicants who are curious, motivated, and ready to engage deeply with research. We welcome applications from trainees at all experience levels. When reviewing applications, we look holistically at each candidate, with particular attention to:
 
-• Demonstrated interest and promise in a STEM discipline, through coursework, projects, or other academic pursuits
-• Prior research or internship experience is a plus
-• Interest in applying for future/continuing educational or workforce opportunities (e.g. REU, SULI, private internships, graduate school)
+- Demonstrated interest and promise in a STEM discipline, through coursework, projects, or other academic pursuits
+- Prior research or internship experience is a plus
+- Interest in applying for future/continuing educational or workforce opportunities (e.g. REU, SULI, private internships, graduate school)
 
 **About the Program**:
 The program is built around whole-scholar development. Over 10 weeks, you will:
 
-• Conduct original research embedded within ORNL research groups, working alongside world-class scientists at the nation's largest DOE science and energy laboratory; 
-• Access world-leading facilities, including the Center for Nanophase Materials Sciences (CNMS), a national user facility for nanoscale synthesis, fabrication, and characterization, ORNL's neutron sources (SNS and HFIR), and Frontier, the world's most powerful open-science supercomputer;
-• Participate in ORNL Summer Schools for Undergraduates, gaining exposure to cutting-edge topics in quantum science, high-performance computing, and materials research alongside peers from across the country;
-• Engage in ORNL's broader scientific community through lab-wide seminars, facility tours, lectures, and networking events with scientists and engineers across research divisions;
-• Develop scientific literacy through weekly paper reading workshops and discussions of primary literature in quantum materials;
-• Build and present a scientific poster gaining experience communicating research to a broad scientific audience;
-• Receive one-on-one mentoring through weekly sessions with your research mentor and program faculty;
-• Get personalized mentoring for graduate school applications and competitive fellowships, including the DOE SULI internship at ORNL, NSF REU, NSF Graduate Research Fellowship (GRFP), and the Goldwater Scholarship
+- Conduct original research embedded within ORNL research groups, working alongside world-class scientists at the nation's largest DOE science and energy laboratory; 
+- Access world-leading facilities, including the Center for Nanophase Materials Sciences (CNMS), a national user facility for nanoscale synthesis, fabrication, and characterization, ORNL's neutron sources (SNS and HFIR), and Frontier, the world's most powerful open-science supercomputer;
+- Participate in ORNL Summer Schools for Undergraduates, gaining exposure to cutting-edge topics in quantum science, high-performance computing, and materials research alongside peers from across the country;
+- Engage in ORNL's broader scientific community through lab-wide seminars, facility tours, lectures, and networking events with scientists and engineers across research divisions;
+- Develop scientific literacy through weekly paper reading workshops and discussions of primary literature in quantum materials;
+- Build and present a scientific poster gaining experience communicating research to a broad scientific audience;
+- Receive one-on-one mentoring through weekly sessions with your research mentor and program faculty;
+- Get personalized mentoring for graduate school applications and competitive fellowships, including the DOE SULI internship at ORNL, NSF REU, NSF Graduate Research Fellowship (GRFP), and the Goldwater Scholarship
 
 📅 **Application deadline: May 12, 2026**, apply by this date for full consideration. 
 **Application link**  [](https://mtsu.iad1.qualtrics.com/jfe/form/SV_0vwxpyg05zm8VUy)
