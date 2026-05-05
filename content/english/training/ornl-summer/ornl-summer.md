@@ -3,13 +3,15 @@ title: "ORNL TN-QuMat Summer 2026 Internship Program"
 date: 2025-09-30T13:24:15-05:00
 EventDate: "June, 2026"
 ShortSummary: "ORNL TN-QuMat Summer Internship Program"
+flyer_thumb: "/images/Internship-Su26-image.png"
+
 ---
 
 ### Overview {#overview .scroll-mt-32}
 
 The TN-QuMat Summer Internship at Oak Ridge National Laboratory (ORNL) is a paid, 10-week summer research experience (June–July 2026) for STEM participants  offered through the DOE RENEW TN-QuMat project (tn-qumat.org).
 
-![](static/images/Internship-Su26-image.png)
+![](/images/Internship-Su26-image.png)
 
 **Funded through TN-QuMat collaboration, including MTSU, Fisk University, TSU, and Meharry Medical College**, this internship places participants directly within ORNL research groups led by Dr. Thomas Maier, Dr. Tom Berlijn, and Dr. Markus Eisenbach, with access to the resources and facilities of the Center for Nanophase Materials Sciences (CNMS).
 Research is organized around three quantum materials thrusts:
