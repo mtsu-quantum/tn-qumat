@@ -43,7 +43,7 @@ The program is built around whole-scholar development. Over 10 weeks, you will:
 - Get personalized mentoring for graduate school applications and competitive fellowships, including the DOE SULI internship at ORNL, NSF REU, NSF Graduate Research Fellowship (GRFP), and the Goldwater Scholarship
 
 📅 **Application deadline: May 12, 2026**, apply by this date for full consideration. 
-**Apply**  [Application Form](https://mtsu.iad1.qualtrics.com/jfe/form/SV_0vwxpyg05zm8VUy)
+ [Apply Now](https://mtsu.iad1.qualtrics.com/jfe/form/SV_0vwxpyg05zm8VUy)
 
 
 Questions? Contact Dr. Hanna Terletska, Email: hanna.terletska@mtsu.edu
