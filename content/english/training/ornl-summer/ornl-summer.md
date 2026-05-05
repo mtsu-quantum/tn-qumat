@@ -17,7 +17,9 @@ The TN-QuMat Summer Internship at Oak Ridge National Laboratory (ORNL) is a paid
 Research is organized around three quantum materials thrusts:
 
 • **Quantum simulation of quantum systems**
+
 • **First-principles computational simulation of materials**
+
 • **Experimental synthesis and characterization of low-dimensional quantum structures**
 
 
