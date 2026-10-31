@@ -66,6 +66,4 @@ The program was designed so that each scholar finishes with a research abstract,
 
 ![QRISE Center career panel for AMPLIFY scholars, September 18, 2026](/images/news/amplify-2026/amp_panel.jpg)
 
-## Building on a Record of Student Success
 
-AMPLIFY began as a pilot at MTSU in Fall 2023, led by Hanna Terletska, with 12 undergraduates from departments across the college. Scholars from that first cohort went on to earn two SULI internships at ORNL, four NSF REU placements, three Ph.D. scholarships, a Goldwater Scholarship, and an NSF GRFP fellowship. Through TN-QuMat, the program now extends this model to students across its Middle Tennessee partner institutions.
