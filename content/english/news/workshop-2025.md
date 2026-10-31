@@ -7,7 +7,7 @@ ShortSummary: "About 100 participants from more than 20 institutions joined a da
 flyer_image: /images/workshops/Flyer-TnQuMat.png
 flyer: /files/Flyer-TnQuMat.pdf
 hero: /images/news/workshop-2025/hero_logos.jpg
-heroCaption: "Participants of TN-QuMat Workshop 2025 at Tennessee State University."
+heroCaption: "Participants of TN-QuMat Workshop 2025 in Nashville, TN."
 images:
   - /images/news/workshop-2025/all1.jpg
 lead: "On November 7, 2025, the Quantum Research, Interdisciplinary Science & Education (QRISE) Center at Middle Tennessee State University (MTSU) led TN-QuMat Workshop 2025 at Tennessee State University (TSU) in Nashville. To our knowledge, it was the first quantum materials-focused workshop held in Nashville for academic partners, bringing university researchers and students together with national laboratory and industry scientists. Supported by the U.S. Department of Energy’s RENEW program, the event was organized through TN-QuMat, a partnership among MTSU, TSU, Fisk University, Meharry Medical College, and Oak Ridge National Laboratory (ORNL)."
