@@ -1,0 +1,55 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+<article class="max-w-4xl mx-auto px-4 py-12">
+  {{ with .Params.hero }}
+    <figure class="mb-6">
+      <img src="{{ . | relURL }}" alt="{{ $.Params.heroCaption }}" class="w-full rounded-2xl shadow-md" />
+      {{ with $.Params.heroCaption }}<figcaption class="text-sm text-gray-500 italic text-center mt-2">{{ . }}</figcaption>{{ end }}
+    </figure>
+  {{ end }}
+
+  <p class="text-sm text-gray-500 mb-4">
+    {{ .Params.EventDate }} &bull; Nashville, TN
+  </p>
+
+  <div class="prose prose-lg max-w-none mb-8">
+    {{ with .Params.lead }}<p>{{ . }}</p>{{ end }}
+  </div>
+
+  <div class="grid gap-8 md:grid-cols-2 mb-8">
+    {{ with .Params.flyer_image }}
+      <a href="{{ $.Params.flyer | relURL }}">
+        <img src="{{ . | relURL }}" alt="TN-QuMat Workshop 2025 flyer" class="w-full rounded-2xl shadow-md" />
+      </a>
+    {{ end }}
+    <div class="prose prose-lg max-w-none">
+      {{ range .Params.intro }}<p>{{ . }}</p>{{ end }}
+    </div>
+  </div>
+
+  <div class="prose prose-lg max-w-none prose-p:mb-5">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.photos }}
+    <h2 class="text-2xl font-bold mt-12 mb-6 text-gray-900">Photos</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+      {{ range . }}
+        <figure>
+          <img src="{{ .src | relURL }}" alt="{{ .caption }}" class="w-full h-64 object-cover rounded-2xl shadow-md" />
+          <figcaption class="text-sm text-gray-500 italic text-center mt-2">{{ .caption }}</figcaption>
+        </figure>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ with .Params.ack }}
+    <h2 class="text-2xl font-bold mt-12 mb-6 text-gray-900">Acknowledgment</h2>
+    <div class="flex flex-col sm:flex-row gap-6 items-center">
+      {{ with $.Params.doe_logo }}<img src="{{ . | relURL }}" alt="U.S. Department of Energy" class="w-44 shrink-0 bg-white" />{{ end }}
+      <p class="mb-0 text-gray-700">{{ . }}</p>
+    </div>
+  {{ end }}
+</article>
+{{ end }}

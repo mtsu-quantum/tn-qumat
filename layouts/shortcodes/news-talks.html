@@ -1,0 +1,16 @@
+{{ with .Page.Params.speakers }}
+<h2>Invited Speakers and Talks</h2>
+{{ with $.Page.Params.welcome }}<p>{{ . }}</p>{{ end }}
+<div class="not-prose space-y-6">
+  {{ range . }}
+    <div class="flex gap-4 items-start">
+      <img src="{{ .photo | relURL }}" alt="{{ .name }}" class="w-20 h-20 rounded-xl object-cover shrink-0" />
+      <div>
+        <p class="font-semibold text-gray-900 mb-0">{{ .name }} <span class="font-normal text-sm text-gray-500">&bull; {{ .org }}</span></p>
+        <p class="text-sm text-gray-700 mb-1"><span class="font-semibold">{{ .label }}:</span> <em>{{ .talk }}</em></p>
+        <p class="text-base text-gray-700 mb-0">{{ .detail }}</p>
+      </div>
+    </div>
+  {{ end }}
+</div>
+{{ end }}
