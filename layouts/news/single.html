@@ -10,7 +10,7 @@
   {{ end }}
 
   <p class="text-sm text-gray-500 mb-4">
-    {{ .Params.EventDate }} &bull; Nashville, TN
+    {{ .Params.EventDate }}{{ with .Params.location }} &bull; {{ . }}{{ end }}
   </p>
 
   <div class="prose prose-lg max-w-none mb-8">
