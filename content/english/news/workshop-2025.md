@@ -31,7 +31,7 @@ photos:
   - {src: "/images/news/workshop-2025/hnds-on-2-3.jpg", caption: "Participants at work in the computer laboratory."}
   - {src: "/images/news/workshop-2025/ionq.jpg", caption: "Ryan Harring (IonQ) speaks during the quantum computing session."}
   - {src: "/images/news/workshop-2025/Jack.jpg", caption: "Jack Villanova (MTSU) introduces density functional theory."}
-ack: "TN-QuMat Workshop 2025 was supported by the U.S. Department of Energy RENEW program under award DE-SC0025748. We also thank our partners IonQ, Xanadu, the MTSU College of Basic and Applied Sciences, and TSU. For more about TN-QuMat, visit https://tn-qumat.org."
+ack: "TN-QuMat Workshop 2025 was supported by the U.S. Department of Energy RENEW program under award DE-SC0025748. "
 doe_logo: /images/news/workshop-2025/doe_green.jpg
 ---
 
