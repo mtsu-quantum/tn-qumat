@@ -61,10 +61,6 @@ parent= "Training"
 name = "ORNL TN-QuMat Summer Internship Program"
 url = "/training/ornl-summer/ornl-summer"
 
-[[main]]
-name = "Journal Club"
-url = "/journal_club"
-weight = 7
 
 #[[main]]
 #weight = 5
