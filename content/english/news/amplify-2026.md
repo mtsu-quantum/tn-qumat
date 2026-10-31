@@ -8,7 +8,7 @@ hero: /images/news/amplify-2026/amp_title.jpg
 images:
   - /images/news/amplify-2026/amp_title.jpg
 lead: "From about 70 applicants across its partner institutions, TN-QuMat selected 12 scholars for the 2026 AMPLIFY Scholars cohort. AMPLIFY is a research and professional development program that prepares undergraduate students for research and careers in quantum science, computing, advanced materials, and AI. The 2026 Quantum Research Track offered a paid, 10-week summer research experience from July 10 to September 18, led by Hanna Terletska at Middle Tennessee State University (MTSU)."
-ack: "The AMPLIFY Scholars Program is part of TN-QuMat, supported by the U.S. Department of Energy RENEW program under award DE-SC0025748, with additional support for perovskite projects from the NSF DMREF program. For more about TN-QuMat, visit https://tn-qumat.org."
+ack: "The AMPLIFY Scholars Program is part of TN-QuMat, supported by the U.S. Department of Energy RENEW program under award DE-SC0025748. For more about TN-QuMat, visit https://tn-qumat.org."
 doe_logo: /images/news/workshop-2025/doe_green.jpg
 ---
 
