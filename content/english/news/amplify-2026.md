@@ -20,7 +20,7 @@ The program focuses on three connected areas: undergraduate research, mentorship
 
 The 2026 cohort brought together students from physics, biochemistry, computer science, mathematics, and data science. Seven scholars came from MTSU, three from Fisk University, one from TSU, and one from Meharry Medical College. Scholars spent about 20 hours a week on research.
 
-![AMPLIFY scholars and mentors at a Friday cohort meeting on Zoom](/images/news/amplify-2026/amp_zoom.jpg)
+![The 2026 TN-QuMat AMPLIFY Scholars cohort](/images/news/amplify-2026/amp_cohort.jpg)
 
 ## Research Mentorship
 
@@ -55,6 +55,8 @@ Projects spanned three broad areas, from modeling and simulating quantum materia
 ## Professional Development
 
 Research skills alone do not open the door to graduate school or national laboratories. Scholars must also read the literature critically, communicate their results, and present themselves well in competitive applications, and these skills are not always taught in the classroom. AMPLIFY therefore pairs each research project with a weekly Friday cohort meeting on Zoom, so that scholars practice these skills using their own work and learn alongside peers from other institutions and disciplines.
+
+![AMPLIFY scholars and mentors at a Friday cohort meeting on Zoom](/images/news/amplify-2026/amp_zoom.jpg)
 
 - **Reading and writing science.** Early sessions introduced expectations and research practice, how to read a scientific paper, and how to prepare scientific documents with Overleaf and LaTeX, giving scholars tools they applied directly to their projects.
 - **Communicating research.** Workshops on giving scientific talks and on designing effective posters, led by Hanna Terletska and Jack Villanova, prepared scholars to present their work. Scholars presented their progress to the cohort, received feedback from peers and faculty, and at the end of the program each gave a 15-minute presentation of their work.
