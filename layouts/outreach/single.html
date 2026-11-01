@@ -19,13 +19,13 @@
 
   <!-- Images Section -->
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
-    {{ with .Params.images }}
+    {{ if not .Params.hide_gallery }}{{ with .Params.images }}
       {{ range . }}
         <div class="overflow-hidden rounded-2xl shadow-md">
           <img src="{{ . | relURL }}" alt="Post image" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300" />
         </div>
       {{ end }}
-    {{ end }}
+    {{ end }}{{ end }}
   </div>
 </article>
 {{ end }}
