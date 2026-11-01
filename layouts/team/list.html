@@ -5,14 +5,24 @@
   <section class="section">
     <div class="container">
       <div class="row">
-        {{ range where .RegularPages "Params.group" "ne" "ORNL Interns" }}
+        {{ range .RegularPages }}{{ if not .Params.group }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "author-card" . }}
+          </div>
+        {{ end }}{{ end }}
+      </div>
+      {{ with where .RegularPages "Params.group" "ORNL Interns" }}
+      <h2 class="text-center mb-10">TN-QuMat ORNL Interns</h2>
+      <div class="row justify-center">
+        {{ range . }}
           <div class="md:col-6 lg:col-4 mb-14">
             {{ partial "author-card" . }}
           </div>
         {{ end }}
       </div>
-      {{ with where .RegularPages "Params.group" "ORNL Interns" }}
-      <h2 class="text-center mb-10">TN-QuMat ORNL Interns</h2>
+      {{ end }}
+      {{ with where .RegularPages "Params.group" "AMPLIFY Scholars" }}
+      <h2 class="text-center mb-10">TN-QuMat AMPLIFY Scholars 2026</h2>
       <div class="row justify-center">
         {{ range . }}
           <div class="md:col-6 lg:col-4 mb-14">
