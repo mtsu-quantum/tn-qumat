@@ -23,7 +23,7 @@ doe_logo: /images/news/workshop-2025/doe_green.jpg
 
 ## A Full Day of Discussion and Lab Tours
 
-The day opened with an overview of ORNL's quantum program from Teja Kuruganti and Nicholas Peters. Hanna Terletska then presented “Quantum@MTSU: Building Middle Tennessee’s Quantum Research and Workforce Ecosystem,” and Brad Gibson gave an overview of Middle Tennessee Electric. Discussions on quantum partnerships, led by Travis Humble and Moody Altamimi, continued over a working lunch with Shaun Gleason on partnerships and the Tennessee Quantum Initiative (TQI).
+The day opened with an overview of ORNL's quantum program from Teja Kuruganti and Nicholas Peters. Hanna Terletska then presented “Quantum@MTSU: Building Middle Tennessee’s Quantum Research and Workforce Ecosystem,” and Brad Gibson gave an overview of Middle Tennessee Electric. Discussions on quantum partnerships continued over a working lunch with Shaun Gleason and Moody Altamimi on partnerships and the Tennessee Quantum Initiative (TQI).
 
 ![Hanna Terletska’s presentation to ORNL leaders and researchers.](/images/news/ornl-visit-2026/front.jpg)
 
@@ -35,7 +35,7 @@ In the afternoon, the group toured quantum laboratories in two ORNL buildings, s
 
 MTSU and ORNL already work together through TN-QuMat, a U.S. Department of Energy RENEW partnership that also includes Tennessee State University, Fisk University, and Meharry Medical College. In 2026, five TN-QuMat interns conducted research at ORNL, and 12 scholars were selected from about 70 applicants for the AMPLIFY program. Researchers at MTSU also collaborate with ORNL scientists, including Thomas Maier and Markus Eisenbach, on quantum materials.
 
-The visit looked beyond individual projects. ORNL offers world-class capabilities in quantum science and materials, high-performance and quantum-classical computing, and national-laboratory testbeds. MTSU brings growing multidisciplinary research that complements these strengths, along with Middle Tennessee reach and a workforce pipeline that extends from K–12 through community and technical colleges to university degrees. Having regional education and industry partners in the room reflected that broader goal.
+The visit looked beyond individual projects. ORNL offers world-class capabilities in quantum science and materials, high-performance and quantum-classical computing, and national-laboratory testbeds. MTSU brings growing multidisciplinary research that complements these strengths, along with Middle Tennessee reach and a workforce pipeline that extends from K-12 through community and technical colleges to university degrees. Having regional education and industry partners in the room reflected that broader goal.
 
 The timing also matters. For the Tennessee Quantum Initiative to have statewide impact, it needs strong regional partners in research, workforce, infrastructure, and industry. An East-to-Middle Tennessee quantum corridor would connect ORNL's national-laboratory capabilities with the students, institutions, and employers of Middle Tennessee.
 
@@ -68,7 +68,6 @@ The visit brought together university leadership, researchers, and regional educ
 
 - Teja Kuruganti, Director, Computational Sciences and Engineering Division
 - Shaun Gleason, Director, Partnerships Office
-- Travis Humble, Director, Quantum Science Center
 - Moody Altamimi, Director, Office of Research Education
 - Nicholas Peters, Section Head, Quantum Information Sciences Section
 - Thomas Maier, Section Head, Advanced Computing Methods for Physical Sciences Section
