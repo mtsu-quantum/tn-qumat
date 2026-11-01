@@ -4,7 +4,7 @@ date: 2026-09-10
 EventDate: "September 8-10, 2026"
 location: "Rockville, MD"
 category: "Conferences"
-ShortSummary: "Hanna Terletska presented TN-QuMat's research and workforce program at the 2026 DOE Theoretical Condensed Matter Physics Principal Investigators' Meeting, where co-investigator Thomas Maier also gave a talk."
+ShortSummary: "Hanna Terletska presented TN-QuMat's research and workforce program at the 2026 DOE Theoretical Condensed Matter Physics Principal Investigators' Meeting, where ORNL lead PI Thomas Maier also gave a talk."
 hero: /images/news/doe-pi-meeting-2026/poster.jpg
 heroCaption: "The TN-QuMat poster presented at the 2026 DOE TCMP Principal Investigators' Meeting."
 images:
@@ -16,7 +16,7 @@ doe_logo: /images/news/workshop-2025/doe_green.jpg
 
 Lead PI Hanna Terletska of Middle Tennessee State University (MTSU) was invited to present a poster on TN-QuMat as a DOE RENEW project. The poster, “TN-QuMat: Tennessee Quantum Materials Research and Training Program,” appeared in the session on superconducting and quantum materials on September 9.
 
-Thomas Maier of Oak Ridge National Laboratory (ORNL), a TN-QuMat co-investigator, also gave a talk at the meeting, “Ultrafast Signatures of Electron-Phonon Coupling,” on September 8.
+Thomas Maier of Oak Ridge National Laboratory (ORNL), TN-QuMat's ORNL lead PI, also gave a talk at the meeting, “Ultrafast Signatures of Electron-Phonon Coupling,” on September 8.
 
 ![Hanna Terletska and Thomas Maier](/images/news/doe-pi-meeting-2026/presenters.jpg)
 
