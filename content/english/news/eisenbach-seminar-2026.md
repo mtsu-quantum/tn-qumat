@@ -1,5 +1,5 @@
 ---
-title: "Oak Ridge National Laboratory's Markus Eisenbach Presents Seminar on Large-Scale Alloy Simulations at MTSU"
+title: "ORNL Senior Computational Scientist Markus Eisenbach Visits MTSU, Presents Seminar on Large-Scale Alloy Simulations"
 date: 2026-10-23
 EventDate: "October 23, 2026"
 location: "Middle Tennessee State University, Murfreesboro, TN"
