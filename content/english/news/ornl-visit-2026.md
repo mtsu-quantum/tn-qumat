@@ -1,6 +1,6 @@
 ---
 title: "MTSU Delegation Visits Oak Ridge National Laboratory to Strengthen Quantum Partnership"
-date: 2026-09-11
+date: 2026-10-31
 EventDate: "September 11, 2026"
 location: "Oak Ridge National Laboratory, Oak Ridge, TN"
 category: "Partnerships"
