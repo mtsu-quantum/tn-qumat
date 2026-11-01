@@ -26,7 +26,19 @@ The program connects students with national laboratory research at an early stag
 
 ## An Internship Built Around National Laboratory Research
 
-TN-QuMat is a partnership among MTSU, Tennessee State University (TSU), Fisk University, Meharry Medical College, and ORNL. Its summer internship places trainees within ORNL research groups, including those of Thomas Maier, Tom Berlijn, and Markus Eisenbach, with access to the laboratory’s scientific community and research facilities. Alongside their projects, interns receive one-on-one mentoring and support in presenting their work and preparing for graduate school, fellowships, and careers in the quantum workforce.
+TN-QuMat is a partnership among MTSU, Tennessee State University (TSU), Fisk University, Meharry Medical College, and ORNL. Its summer internship places trainees within ORNL research groups, including those of Thomas Maier, Tom Berlijn, and Markus Eisenbach, and organizes research around three quantum materials thrusts: many-body modeling and simulation, first-principles computing, and the synthesis and characterization of materials. The program is built around whole-scholar development, combining original research with training for the next step in each intern’s career.
+
+The internship offers trainees:
+
+- **Research at a national laboratory.** Original research embedded in ORNL research groups, alongside scientists at the nation’s largest DOE science and energy laboratory.
+- **World-leading facilities.** Access to resources including the Center for Nanophase Materials Sciences (CNMS), ORNL’s neutron sources, the Spallation Neutron Source and the High Flux Isotope Reactor, and the Frontier supercomputer.
+- **A wider scientific community.** ORNL summer schools, laboratory-wide seminars, facility tours, lectures, and networking with scientists and engineers.
+- **Research communication.** Paper reading and discussion of primary literature, and experience building and presenting a scientific poster.
+- **Mentoring for what comes next.** One-on-one mentoring and personalized support for graduate school and fellowships, including DOE SULI, NSF REU, the NSF Graduate Research Fellowship, and the Goldwater Scholarship.
+
+![Flyer for the Summer 2026 TN-QuMat Internship at ORNL. Applications are now closed.](/images/news/ornl-interns-2026/flyer.jpg)
+
+Learn more about the [TN-QuMat Summer Internship Program](/training/ornl-summer/ornl-summer/).
 
 ## Intern Research Projects
 
