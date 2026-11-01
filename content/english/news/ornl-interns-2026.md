@@ -6,7 +6,7 @@ location: "Oak Ridge National Laboratory"
 category: "Internships"
 ShortSummary: "Five TN-QuMat trainees spent 10 weeks at Oak Ridge National Laboratory on research in quantum simulation, machine learning, quantum algorithms, and magnetic materials."
 hero: /images/news/ornl-interns-2026/group.jpg
-heroCaption: "The 2026 TN-QuMat interns at Oak Ridge National Laboratory."
+heroCaption: "The 2026 TN-QuMat interns at Oak Ridge National Laboratory. From left: Aditya Sunke, Ivy Morelli, Bishal Tiwari, Tyler Sax, and Narendra Phulara."
 images:
   - /images/news/ornl-interns-2026/group.jpg
 lead: "Five TN-QuMat trainees spent summer 2026 working at Oak Ridge National Laboratory (ORNL) through the TN-QuMat Summer Internship Program, a paid, 10-week research experience supported by the U.S. Department of Energy RENEW program. Each intern worked on a TN-QuMat research project with mentors from their home universities and ORNL."
